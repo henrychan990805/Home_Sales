@@ -14,4 +14,4 @@ Afterwards, this project will contrast the running time of the last query with c
 ##Results of Analysis
 home_sales dataframe overview
 <br>
-![Overview](Screenshots/OriginalDataFrame.PNG)
+![Overview](Screenshots/OriginalDataFrame.png)
