@@ -14,4 +14,4 @@ Afterwards, this project will contrast the running time of the last query with c
 ##Results of Analysis
 home_sales dataframe overview
 <br>
-![Overview] (https://github.com/henrychan990805/Home_Sales/blob/e4516b31bf8bfa07cc3de7d4e1f0b60fbb5056e8/Screenshots/OriginalDataFrame.PNG)
+! [Overview](https://github.com/henrychan990805/Home_Sales/blob/e4516b31bf8bfa07cc3de7d4e1f0b60fbb5056e8/Screenshots/OriginalDataFrame.PNG)
