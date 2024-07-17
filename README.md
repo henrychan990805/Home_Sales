@@ -12,5 +12,6 @@ This project aims to use spark sql to answer the following questions.
 Afterwards, this project will contrast the running time of the last query with caching the temprary table and parquet the temprary table.
 <br>
 ##Results of Analysis
-home_sales dataframe\
+home_sales dataframe
+<br>
 ![alt text](https://github.com/henrychan990805/Home_Sales/blob/e4516b31bf8bfa07cc3de7d4e1f0b60fbb5056e8/Screenshots/OriginalDataFrame.PNG)
